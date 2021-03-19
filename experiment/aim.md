@@ -1,1 +1,3 @@
-### Aim of the experiment
+Van der Waals forces include attractions between atoms, molecules, and surfaces, as well as other intermolecular forces. They differ from covalent and ionic bonding in that they are caused by correlations in the fluctuating polarizations of nearby particles.
+The Lennard-Jones potential is often used as an approximate model for the isotropic part of a total (repulsion plus attraction) van der Waals force as a function of distance.The Lennard-Jones potential is a mathematically simple model that approximates the interaction between a pair of neutral atoms or molecules. A form of the potential was first proposed in 1924 by **John Lennard-Jones**.
+
