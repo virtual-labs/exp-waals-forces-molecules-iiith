@@ -7,17 +7,17 @@ The strong close in repulsion between atoms or molecules is understandable, resu
 
 <img src="images/vanderwaal.jpg">
 
-¦Å = the minimum (well depth) of the potential for the interaction between atom i and j.
+Îµ = the minimum (well depth) of the potential for the interaction between atom i and j.
 
-¦Òij - the collision diameter,at which inter particle potential is zero.
+Ïƒ<sub>ij</sub> - the collision diameter,at which inter particle potential is zero.
 
 rij = the distance between the particles.
 
-The parameters ¦Å,¦Ò is not given for a specific pair and can be found by using Lorentz-berthelot rules.
+The parameters Îµ ,Ïƒ is not given for a specific pair and can be found by using Lorentz-berthelot rules.
 
 <img src="images/IVw4.png">  
 
-The term r-12is called repulsive term,observed at short ranges due to overlapping of electron orbitals. The term r-6describes the attraction at long ranges.
+The term r<sup>-12</sup> is called repulsive term,observed at short ranges due to overlapping of electron orbitals. The term r<sup>-6</sup> describes the attraction at long ranges.
 The atoms can be treated as spheres defined by a Van der Waals radius that is a measure of how close another atoms can come before a strong,   very short range, repulsive force kicks in.
 
 <img src="images/vs.jpg">  
