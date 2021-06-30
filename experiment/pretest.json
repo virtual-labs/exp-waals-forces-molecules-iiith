@@ -1,0 +1,38 @@
+[
+{"question":"1. Van der Waals forces are both attractive and repulsive.", 
+"answers": {
+             "a":"True", 
+             "b":"False"
+               },
+"correctAnswer": "a"},
+
+{"question":"2. Weakest of Van der Waals forces are called dipole dipole interaction.",
+"answers": {
+             "a": "True",
+             "b": "False"
+            },
+            "correctAnswer":"b"},
+
+{"question":"3. The Van Der Waals force present in Hydrogen Fluoride gas is Hydrogen bonds .", 
+"answers": {
+             "a":"True", 
+             "b":"False" 
+            },
+"correctAnswer": "a"},
+
+
+{"question":"4. Strongest of Van der Waals forces is called London Dispersion forces.", 
+"answers": {
+             "a": "True", 
+             "b": "False" 
+            },
+"correctAnswer": "b"},
+
+{"question":"5.The strongest of Van Der Waals forces is called Hydrogen bond.", 
+"answers": {
+             "a":"True", 
+             "b":"False"
+            },
+"correctAnswer": "a"} 			  
+
+]
