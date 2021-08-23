@@ -2,12 +2,12 @@
 
 STEP1: Select the type of molecule by clicking on it.  
 
-<img src="images/Screenshot.png">    
+<img src="images/Screenshot.png" width="450" height="400">    
 
 STEP 2:  Click 'Start' to start the experiment.  
 
-<img src="images/Screenshot-1.png">  
+<img src="images/Screenshot-1.png" width="450" height="400">  
 
 STEP 3:  The coordinates of molecule can be varied by varying the sliders provided, a plot of energy, force by varying positions is seen.   
 
-<img src="images/Screenshot-2.png">
+<img src="images/Screenshot-2.png" width="450" height="400">
