@@ -1,0 +1,16 @@
+[
+{"question":"1. Strongest of Van der Waals forces is called London Dispersion forces.", 
+"answers": {
+             "a": "True", 
+             "b": "False" 
+            },
+"correctAnswer": "b"},
+
+{"question":"2.The strongest of Van Der Waals forces is called Hydrogen bond.", 
+"answers": {
+             "a":"True", 
+             "b":"False"
+            },
+"correctAnswer": "a"} 			  
+
+]
